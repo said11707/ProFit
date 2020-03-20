@@ -150,6 +150,7 @@ body{
     text-align: center;
     line-height: 25px;
     margin: 0 19px;
+    cursor: pointer;
 }
 
 .home .indicator div.active{
